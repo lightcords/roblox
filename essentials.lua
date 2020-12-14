@@ -1,5 +1,7 @@
 --[[ Lightcord | Essentials.lua Beta ]]--
 
+print ("Thank you for using Essentials by Lightcords!")
+
 local cgame = game.PlaceId
 cmdx = loadstring(game:HttpGet("https://pastebin.com/raw/F3JvpCDM",true))()
 lofi =  loadstring(game:HttpGet("https://pastebin.com/raw/6sAWRWc8"))()
