@@ -9,7 +9,10 @@ if cgame == 2041312716 then
 
 elseif cgame == 1730877806 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/YaBoiii123/MagmaGPO/main/magma.lua", true))()
-  
+
+elseif cgame == 286090429 then
+    loadstring(game:HttpGet("https://pastebin.com/raw/GtudyLtE"))()
+
 elseif cgame == 4723618670 then
     loadstring(game:HttpGet("https://pastebin.com/raw/Eb8YpxGu",true))()
 
